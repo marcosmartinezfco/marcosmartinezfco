@@ -5,3 +5,5 @@
 - 📃 Into eth smart contracts
 - 🔬 [cryptozombies.io](https://cryptozombies.io)
 - 📫 marcosmartinezfco@gmail.com
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosmartinezfco&show_icons=true&count_private=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
