@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :mortar_board: Currently working on my degree's thesis about LSTM neural networks.
-- :book: Currently reading ```Deep learning with python, François Chollet```
-- 📃 Into smart contracts development
+- :mortar_board: Check out my degree's thesis about LSTM neural networks.
+- :book: Currently reading ```Option volatility & pricing,Sheldon Natenberg```
+- 📃 Into quantitative trading
 - :money_with_wings: marcosmartinezfco.crypto
 - 📫 marcosmartinezfco@gmail.com
 
