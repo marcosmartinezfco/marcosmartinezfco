@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🌍: Trying to contribute to climate change with [lowcarbon](https://lowcarbon.trade)
+- 🌍: Into systematic trading
 - :book: Currently reading ```Option volatility & pricing,Sheldon Natenberg```
-- 📃 Into carbon markets
-- 📫 marcosmartinezfco@lowcarbon.trade
 
